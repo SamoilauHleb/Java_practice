@@ -1,4 +1,4 @@
-package Les4;
+package ClassWork.CW4;
 
 import java.util.Arrays;
 import java.util.Random;

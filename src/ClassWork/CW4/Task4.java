@@ -1,4 +1,4 @@
-package Les4;
+package ClassWork.CW4;
 
 public class Task4 {
     public static void main(String[] args) {
