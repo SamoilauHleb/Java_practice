@@ -17,6 +17,8 @@ public class Cat extends Animal {
         System.out.println("мягкий:" + soft + " " + "цвет:" + color + " " + "размер:" + size);
     }
 
+    //Метод main должен быть один в отдельном класса, а не во всех.
+    //И в нем должны создаваться животные и выводиться информация о них.
     public static void main(String[] args) {
         Cat cats = new Cat("Jerry", 3, "Siamese", "fluffy", "Black", 50);
         cats.displayInfo();
